@@ -1,10 +1,5 @@
-# Vehicle-Counting-Project-OpenCV-Python-
+# 🚗 Vehicle-Counting-Project-OpenCV-Python-
 A computer vision project that counts vehicles in traffic videos using Python and OpenCV.  It uses background subtraction and contour detection to detect moving vehicles and  increments a counter whenever they cross a predefined line.
-# 🚗 Vehicle Counting Project (OpenCV + Python)
-
-A computer vision project that **counts vehicles in a video** using Python and OpenCV.  
-It detects moving vehicles, draws bounding boxes around them, and increases a counter whenever they cross a predefined line.  
-
 ---
 
 ## 📸 Demo
