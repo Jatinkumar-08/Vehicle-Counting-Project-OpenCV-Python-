@@ -1,0 +1,6 @@
+opencv-python
+opencv-contrib-python
+numpy
+
+## you can also use this
+just run pip install -r requirements.txt
